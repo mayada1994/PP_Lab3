@@ -1,0 +1,14 @@
+Task1/CustomArray.java
+ Task1.CustomArray
+ Task1.CustomArray$1
+Task1/Main.java
+ Task1.Main
+Task1/ThreadSum.java
+ Task1.ThreadSum
+Task2/ThreadSum.java
+ Task2.ThreadSum
+Task2/CustomArray.java
+ Task2.CustomArray
+ Task2.CustomArray$1
+Task2/Main.java
+ Task2.Main
